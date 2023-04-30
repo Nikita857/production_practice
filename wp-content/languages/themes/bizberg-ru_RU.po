@@ -1,0 +1,2936 @@
+# Translation of Themes - Bizberg in Russian
+# This file is distributed under the same license as the Themes - Bizberg package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-02 10:35:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Bizberg\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Bizberg is a perfect theme for your business, corporate, restaurant, ingo, ngo, environment, nature, wedding, blog, portfolio, medical, charity, construction websites. You can import full website demos easily. Within few seconds, a fully responsive business website will be ready with a demo content. You can easily edit the content using live customizer & Elementor. It is fast & light-weight and works with almost all popular WordPress plugins. It is compatible with Elementor and all the sections are made from Elementor."
+msgstr "Bizberg — идеальная тема для вашего бизнеса, корпоративных, ресторанных, коммерческих, неправительственных организаций, окружающей среды, природы, свадеб, блогов, портфолио, медицинских, благотворительных, строительных веб-сайтов. Вы можете легко импортировать полные демо-версии веб-сайта. В течение нескольких секунд будет готов полностью адаптивный бизнес-сайт с демо-контентом. Вы можете легко редактировать контент с помощью живого настройщика и Elementor. Он быстрый и легкий и работает практически со всеми популярными плагинами WordPress. Он совместим с Elementor, и все разделы сделаны из Elementor."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Bizberg"
+msgstr "Bizberg"
+
+#: inc/customizer/navigation/transparent-header.php:299
+#: inc/customizer/navigation/transparent-header.php:483
+msgid "Search Icon Color"
+msgstr "Цвет значка поиска"
+
+#: inc/customizer/navigation/top-bar.php:195
+msgid "Infobox 1"
+msgstr "Информ. блок 1"
+
+#: inc/customizer/navigation/top-bar.php:315
+msgid "Infobox 2"
+msgstr "Информ. блок 2"
+
+#: inc/customizer/navigation/top-bar.php:435
+msgid "Infobox 3"
+msgstr "Информ. блок 3"
+
+#: inc/customizer/blog-settings.php:6
+msgid "Hide Homepage Blog"
+msgstr "Скрыть домашнюю страницу блога"
+
+#: inc/plugins/kirki-advanced-repeater/index.php:111
+msgid "Limit: %s row"
+msgid_plural "Limit: %s rows"
+msgstr[0] "Лимит: %s строк"
+msgstr[1] "Лимит: %s строки"
+msgstr[2] "Лимит: %s строк"
+
+#: template-parts/content-detail2.php:135
+msgid "Previous Article"
+msgstr "Предыдущая статья"
+
+#: template-parts/content-detail2.php:161
+msgid "Next Article"
+msgstr "Следующая статья"
+
+#: template-parts/content-detail2.php:95
+msgid "View More Posts"
+msgstr "Посмотреть больше записей"
+
+#: inc/customizer/blog-settings.php:403
+msgid "Large"
+msgstr "Большой"
+
+#: template-parts/content-grid-two-column.php:20
+msgid "Added on"
+msgstr "Добавлено на"
+
+#: inc/customizer/blog-settings.php:383
+msgid "Grid View ( Two Columns )"
+msgstr "Представление в виде сетки (два столбца)"
+
+#: inc/customizer/blog-settings.php:384
+msgid "List View ( One Column )"
+msgstr "Представление в виде списка (два столбца)"
+
+#: inc/customizer/blog-settings.php:398
+msgid "Blog Listing Image Size"
+msgstr "Размер изображения списка блога"
+
+#: inc/customizer/blog-settings.php:31
+msgid "Post Limit"
+msgstr "Ограничение записей"
+
+#: inc/customizer/blog-settings.php:43
+msgid "Show All Posts"
+msgstr "Показать все записи"
+
+#: inc/customizer/blog-settings.php:65
+msgid "Ignore Sticky Posts"
+msgstr "Игнорировать прилепленные записи"
+
+#: inc/customizer/hero/front-page-hero.php:255
+msgid "Enable Title Font Settings"
+msgstr "Включить настройки шрифта заголовка"
+
+#: inc/customizer/hero/front-page-hero.php:294
+#: inc/customizer/hero/front-page-hero.php:315
+#: inc/customizer/hero/front-page-hero.php:334
+msgid "Title Font Settings"
+msgstr "Настройки шрифта заголовка"
+
+#: inc/customizer/hero/front-page-hero.php:406
+msgid "Enable Subtitle Font Settings"
+msgstr "Включить настройки шрифта подзаголовка"
+
+#: inc/customizer/hero/front-page-hero.php:445
+#: inc/customizer/hero/front-page-hero.php:466
+#: inc/customizer/hero/front-page-hero.php:485
+msgid "Subtitle Font Settings"
+msgstr "Настройки шрифта подзаголовка"
+
+#: inc/customizer/general-settings/colors-woocommerce.php:44
+msgid "Theme Colors"
+msgstr "Цвета темы"
+
+#: inc/customizer/woocommerce/floating-menu.php:41
+msgid "Title Background Color"
+msgstr "Цвет фона заголовка"
+
+#: inc/customizer/general-settings/colors-woocommerce.php:7
+msgid "WooCommerce Colors"
+msgstr "Цвета WooCommerce"
+
+#: inc/customizer/hero/front-page-hero.php:619
+#: inc/customizer/hero/inner-pages-hero.php:164
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/hero/front-page-hero.php:606
+#: inc/customizer/hero/inner-pages-hero.php:158
+msgid "Banner Opacity Options"
+msgstr "Параметры прозрачности баннера"
+
+#: inc/customizer/general-settings/colors-woocommerce.php:13
+#: inc/customizer/hero/front-page-hero.php:637
+#: inc/customizer/hero/inner-pages-hero.php:175
+msgid "Secondary Color"
+msgstr "Дополнительный цвет"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:413
+msgid "Enable custom heading font size"
+msgstr "Включить пользовательский размер шрифта заголовка"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:407
+msgid "Sidebar Widget Heading"
+msgstr "Заголовки виджетов области виджета"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:414
+msgid "Tick to enable custom font size on sidebar headings"
+msgstr "Отметьте, чтобы включить настраиваемый размер шрифта в заголовках области виджета"
+
+#: inc/customizer/blog-settings.php:457
+msgid "Sticky Sidebar"
+msgstr "Прилепленная область виджетов"
+
+#: inc/customizer/hero/front-page-hero.php:12
+#: inc/customizer/hero/front-page-hero.php:24
+msgid "Video"
+msgstr "Видео"
+
+#: inc/customizer/hero/front-page-hero.php:129
+msgid "Choose Gradient Presets"
+msgstr "Выберите предустановки градиента"
+
+#: inc/customizer/hero/front-page-hero.php:169
+msgid "Gradient Opacity"
+msgstr "Прозрачность градиента"
+
+#: functions.php:1510
+msgid "It comes with prebuild templates so that you don't have to build it from the start. Clicking the button below will install all the recommended plugins for this theme."
+msgstr "Он поставляется с готовыми шаблонами, так что вам не нужно создавать его с самого начала. При нажатии на кнопку ниже будут установлены все рекомендуемые плагины для этой темы."
+
+#: inc/customizer/woocommerce/floating-menu.php:20
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/customizer/woocommerce/floating-menu.php:25
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/customizer/woocommerce/floating-menu.php:26
+msgid "Wishlist"
+msgstr "Список пожеланий"
+
+#: inc/woocommerce.php:694 inc/woocommerce.php:722
+msgid "Your Cart"
+msgstr "Ваша корзина"
+
+#: inc/customizer/woocommerce/floating-menu.php:4
+msgid "Floating Menu"
+msgstr "Плавающее меню"
+
+#: inc/customizer/hero/front-page-hero.php:214
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/customizer/general-settings/site-identity.php:10
+msgid "Add custom link for logo / site title"
+msgstr "Добавить пользовательскую ссылку для логотипа/названия сайта"
+
+#: inc/customizer/general-settings/site-identity.php:6
+msgid "Logo / Site Title Link"
+msgstr "Ссылка на логотип/название сайта"
+
+#: inc/customizer/general-settings/site-identity.php:16
+msgid "Open link in a new tab ?"
+msgstr "Открыть ссылку в новой вкладке?"
+
+#: inc/customizer/woocommerce/product-catalog.php:40
+msgid "Column"
+msgstr "Столбец"
+
+#: functions.php:1188
+msgid "Shop"
+msgstr "Магазин"
+
+#: inc/customizer/woocommerce/product-catalog.php:20
+msgid "Sidebar Position"
+msgstr "Положение области виджетов"
+
+#: inc/customizer/woocommerce/header.php:37
+msgid "All Category"
+msgstr "Все категории"
+
+#: inc/customizer/woocommerce/product-catalog.php:149
+msgid "Price Color"
+msgstr "Цвет цены"
+
+#: inc/customizer/woocommerce/header.php:29
+msgid "Search for Product"
+msgstr "Поиск товара"
+
+#: inc/customizer/blog-settings.php:402
+#: inc/customizer/woocommerce/product-catalog.php:11
+msgid "Small"
+msgstr "Маленький"
+
+#: inc/customizer/woocommerce/product-catalog.php:6
+msgid "Widget Size"
+msgstr "Размер виджета"
+
+#: inc/customizer/woocommerce/header.php:18
+msgid "WooCommerce Search"
+msgstr "Поиск по WooCommerce"
+
+#: inc/customizer/woocommerce/product-catalog.php:171
+msgid "Add to Cart Background"
+msgstr "Добавить фон в корзину"
+
+#: inc/customizer/woocommerce/product-catalog.php:10
+msgid "No Widget"
+msgstr "Нет виджета"
+
+#: inc/customizer/woocommerce/product-catalog.php:12
+msgid "Big"
+msgstr "Большой"
+
+#: inc/customizer/woocommerce/floating-menu.php:27 inc/woocommerce.php:294
+#: inc/woocommerce.php:296
+msgid "Compare"
+msgstr "Сравнить"
+
+#: inc/woocommerce.php:616
+msgid "YITH WooCommerce Compare"
+msgstr "YITH WooCommerce Compare"
+
+#: inc/woocommerce.php:622
+msgid "YITH WooCommerce Quick View"
+msgstr "YITH WooCommerce Quick View"
+
+#: inc/woocommerce.php:628
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: inc/customizer/woocommerce/product-catalog.php:68
+msgid "Enable Breadcrumb ?"
+msgstr "Включить хлебные крошки?"
+
+#: inc/customizer/woocommerce/product-catalog.php:83
+msgid "Enable Custom Colors ?"
+msgstr "Включить пользовательские цвета?"
+
+#: inc/customizer/woocommerce/product-catalog.php:91
+msgid "Sale Tag Color"
+msgstr "Цвет тега (метки) продажи"
+
+#: inc/customizer/woocommerce/product-catalog.php:122
+msgid "Quick View Background"
+msgstr "Фон быстрого просмотра"
+
+#: inc/customizer/woocommerce/header.php:27
+msgid "Placeholder Text"
+msgstr "Текст заглушки"
+
+#: inc/customizer/woocommerce/header.php:35
+msgid "Dropdown Text"
+msgstr "Выпадающий текст"
+
+#: inc/customizer/woocommerce/header.php:41
+msgid "WooCommerce Account Menu"
+msgstr "Меню учетной записи WooCommerce"
+
+#: inc/customizer/woocommerce/header.php:49
+msgid "Select parent menu ( For non logged in users )"
+msgstr "Выбрать родительское меню (для незарегистрированных пользователей)"
+
+#: inc/customizer/woocommerce/header.php:58
+msgid "Icon ( For non logged in users )"
+msgstr "Значок (для незарегистрированных пользователей)"
+
+#: inc/customizer/woocommerce/header.php:70
+msgid "Select parent menu ( For logged in users )"
+msgstr "Выбрать родительское меню (для зарегистрированных пользователей)"
+
+#: inc/customizer/woocommerce/header.php:79
+msgid "Icon ( For logged in users )"
+msgstr "Значок (для зарегистрированных пользователей)"
+
+#: inc/customizer/woocommerce/header.php:90
+msgid "Select Dropdown Pages"
+msgstr "Выбрать раскрывающиеся страницы"
+
+#: inc/customizer/woocommerce/header.php:101
+msgid "Select a page you want to display on the dropdown"
+msgstr "Выберите страницу, которую вы хотите отобразить в раскрывающемся списке"
+
+#: inc/customizer/woocommerce/header.php:106
+msgid "Dropdown Title"
+msgstr "Заголовок раскрывающегося списка"
+
+#: inc/customizer/woocommerce/header.php:107
+msgid "If empty, the selected page title will be displayed."
+msgstr "Если пусто, будет отображаться заголовок выбранной страницы."
+
+#: inc/customizer/woocommerce/header.php:112
+msgid "If empty, the selected page link will be displayed."
+msgstr "Если пусто, будет отображаться ссылка на выбранную страницу."
+
+#: inc/customizer/woocommerce/header.php:135
+msgid "Disable logout link"
+msgstr "Отключить ссылку для выхода из системы"
+
+#: inc/customizer/woocommerce/header.php:143
+msgid "Disable logout icon"
+msgstr "Отключить значок выхода из системы"
+
+#: inc/customizer/general-settings/colors.php:479
+msgid "Outer Spacing"
+msgstr "Внешний отступ"
+
+#: inc/customizer/navigation/primary-header.php:169
+#: inc/customizer/navigation/primary-header.php:257
+#: inc/customizer/navigation/primary-header.php:447
+msgid ""
+"You can use there shortcodes. <code>[bizberg_product_search_box], [bizberg_woocommerce_account_menu], \n"
+"[bizberg_woocommerce_wishlist], [bizberg_woocommerce_compare], [bizberg_woocommerce_mini_cart]</code>"
+msgstr ""
+"Вы можете использовать шорткоды. <code>[bizberg_product_search_box], [bizberg_woocommerce_account_menu],\n"
+"[bizberg_woocommerce_wishlist], [bizberg_woocommerce_compare], [bizberg_woocommerce_mini_cart]</code>"
+
+#: inc/customizer/navigation/primary-menu.php:328
+msgid "Background ( Sticky Menu )"
+msgstr "Фон (прилепленное меню)"
+
+#: inc/customizer/navigation/primary-menu.php:371
+msgid "Border ( Sticky Menu )"
+msgstr "Рамка (прилепленное меню)"
+
+#: inc/customizer/navigation/primary-menu.php:414
+msgid "Text Color ( Sticky Menu )"
+msgstr "Цвет текста (прилепленное меню)"
+
+#: inc/customizer/navigation/primary-menu.php:543
+msgid "Button Color ( Sticky Menu )"
+msgstr "Цвет кнопки (прилепленное меню)"
+
+#: inc/customizer/navigation/primary-menu.php:589
+msgid "Button Color ( Hover ) ( Sticky Menu )"
+msgstr "Цвет кнопки (при наведении) (прилепленное меню)"
+
+#: inc/customizer/navigation/primary-menu.php:672
+msgid "Border Color ( Sticky Menu )"
+msgstr "Цвет рамки (прилепленное меню)"
+
+#: inc/customizer/hero/front-page-hero.php:1218
+msgid "Font"
+msgstr "Шрифт"
+
+#: inc/customizer/blog-settings.php:332
+msgid "Align"
+msgstr "Выравнивание"
+
+#: inc/customizer/blog-settings.php:94
+msgid "Label"
+msgstr "Этикетка"
+
+#: inc/customizer/navigation/transparent-header.php:322
+msgid "Will be used only where transparent header is enabled and when the user scrolls the page."
+msgstr "Будет использоваться только там, где включен прозрачный заголовок и когда пользователь прокручивает страницу."
+
+#: inc/customizer/blog-settings.php:81
+msgid "Title Settings"
+msgstr "Настройки заголовка"
+
+#: inc/customizer/navigation/transparent-header.php:321
+msgid "Sticky Logo"
+msgstr "Прикрепленный логотип"
+
+#: inc/customizer/blog-settings.php:126
+msgid "Title Font Size ( Desktop )"
+msgstr "Размер шрифта заголовка (пк)"
+
+#: inc/customizer/blog-settings.php:144
+msgid "Title Font Size ( Tablet )"
+msgstr "Размер шрифта заголовка (планшет)"
+
+#: inc/customizer/blog-settings.php:163
+msgid "Title Font Size ( Mobile )"
+msgstr "Размер шрифта заголовка (мобильный)"
+
+#: inc/customizer/blog-settings.php:239
+msgid "Spacing ( Desktop )"
+msgstr "Отступ (пк)"
+
+#: inc/customizer/blog-settings.php:266
+msgid "Spacing ( Tablet )"
+msgstr "Отступ (планшет)"
+
+#: inc/customizer/blog-settings.php:295
+msgid "Spacing ( Mobile )"
+msgstr "Отступ (мобильный)"
+
+#: inc/customizer/blog-settings.php:362
+msgid "Other Settings"
+msgstr "Другие настройки"
+
+#: inc/customizer/navigation/transparent-header.php:74
+msgid "Blur"
+msgstr "Размытие"
+
+#: inc/customizer/navigation/transparent-header.php:126
+msgid "Separator Color"
+msgstr "Цвет разделителя"
+
+#: inc/customizer.php:160
+msgid "Transparent Header"
+msgstr "Прозрачный заголовок"
+
+#: inc/customizer/navigation/primary-menu.php:6
+msgid "Slide In Animation"
+msgstr "Анимация слайдов"
+
+#: inc/customizer/navigation/transparent-header.php:6
+msgid "Transparent Header Homepage ?"
+msgstr "Прозрачный заголовок домашней страницы?"
+
+#: inc/customizer/navigation/transparent-header.php:7
+msgid "If enabled, the homepage will have transparent header."
+msgstr "Если включено, главная (домашняя) страница будет иметь прозрачный заголовок."
+
+#: inc/customizer/navigation/transparent-header.php:16
+msgid "Select pages that will contain transparent header."
+msgstr "Выберите страницы, которые будут содержать прозрачный заголовок."
+
+#: inc/customizer/navigation/transparent-header.php:38
+msgid "Will be used only where transparent header is enabled."
+msgstr "Будет использоваться только там, где включен прозрачный заголовок."
+
+#: inc/customizer/navigation/transparent-header.php:50
+msgid "Transparent Header Color Options"
+msgstr "Параметры цвета прозрачного заголовка"
+
+#: inc/customizer/navigation/transparent-header.php:261
+#: inc/customizer/navigation/transparent-header.php:445
+msgid "Button Border Color"
+msgstr "Цвет рамки кнопки"
+
+#: inc/customizer/navigation/transparent-header.php:278
+msgid "Transparent Header Mobile Options"
+msgstr "Параметры прозрачного заголовка для мобильных"
+
+#: inc/customizer/navigation/transparent-header.php:330
+msgid "Header Background"
+msgstr "Фон заголовка"
+
+#: inc/customizer/navigation/transparent-header.php:315
+msgid "Transparent Header Sticky Options"
+msgstr "Параметры прикрепления прозрачного заголовка"
+
+#: inc/customizer/navigation/mobile-menu.php:6
+msgid "Dropdown Menu Height ( Mobile )"
+msgstr "Высота выпадающего меню (мобильный)"
+
+#: inc/customizer/hero/front-page-hero.php:1073
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/customizer/general-settings/colors.php:218
+#: inc/customizer/navigation/primary-menu.php:309
+#: inc/customizer/navigation/transparent-header.php:56
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer/navigation/primary-menu.php:347
+msgid "Border"
+msgstr "Рамка"
+
+#: inc/customizer/hero/front-page-hero.php:722
+#: inc/customizer/navigation/transparent-header.php:14
+#: inc/customizer/navigation/transparent-header.php:22
+#: inc/customizer/woocommerce/header.php:95
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/customizer/navigation/top-bar.php:592
+#: inc/customizer/navigation/top-bar.php:614
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/navigation/mobile-menu.php:79
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: inc/customizer/navigation/top-bar.php:628
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:205
+msgid "Mobile Menu"
+msgstr "Меню мобильных устройств"
+
+#: inc/customizer/navigation/primary-menu.php:138
+#: inc/customizer/navigation/primary-menu.php:184
+msgid "Site Tagline Color"
+msgstr "Цвет краткого описания сайта"
+
+#: inc/customizer/navigation/top-bar.php:100
+msgid "Social Icons Color"
+msgstr "Цвет значков соцсетей"
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/plugins/kirki/core/class-kirki-field.php:358
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr "Обнаружена ошибка в поле %s - \"theme_mods\" вместо \"theme_mod\""
+
+#: inc/customizer/hero/front-page-hero.php:1252
+#: inc/customizer/navigation/top-bar.php:14
+msgid "Background Color 1"
+msgstr "Цвет фона 1"
+
+#: inc/customizer/hero/front-page-hero.php:1272
+#: inc/customizer/navigation/top-bar.php:32
+msgid "Background Color 2"
+msgstr "Цвет фона 2"
+
+#: inc/customizer/navigation/top-bar.php:596
+msgid "Background Hover Color"
+msgstr "Цвет фона при наведении"
+
+#: inc/customizer/general-settings/colors.php:199
+#: inc/customizer/general-settings/colors.php:552
+#: inc/customizer/hero/front-page-hero.php:1374
+#: inc/customizer/navigation/mobile-menu.php:95
+#: inc/customizer/navigation/primary-menu.php:649
+#: inc/customizer/navigation/transparent-header.php:100
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: inc/customizer/general-settings/colors.php:73
+msgid "Heading Color ( H1 - H6 )"
+msgstr "Цвета заголовков ( H1 - H6 )"
+
+#: inc/customizer/navigation/top-bar.php:223
+msgid "Icon 1"
+msgstr "Значок 1"
+
+#: inc/customizer/navigation/top-bar.php:343
+msgid "Icon 2"
+msgstr "Значок 2"
+
+#: inc/customizer/navigation/top-bar.php:463
+msgid "Icon 3"
+msgstr "Значок 3"
+
+#: inc/customizer/navigation/top-bar.php:247
+msgid "Label 1"
+msgstr "Этикетка 1"
+
+#: inc/customizer/navigation/top-bar.php:367
+msgid "Label 2"
+msgstr "Этикетка 2"
+
+#: inc/customizer/navigation/top-bar.php:487
+msgid "Label 3"
+msgstr "Этикетка 3"
+
+#: inc/customizer/general-settings/colors.php:97
+#: inc/customizer/general-settings/colors.php:498
+#: inc/customizer/navigation/footer-settings.php:151
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: inc/customizer/navigation/primary-menu.php:434
+msgid "Search Options"
+msgstr "Параметры поиска"
+
+#: inc/customizer/hero/front-page-hero.php:655
+msgid "Slider Type"
+msgstr "Тип слайдера"
+
+#: inc/customizer/navigation/footer-settings.php:85
+msgid "Social Icon Color"
+msgstr "Цвет значка соцсетей"
+
+#: inc/customizer/general-settings/colors.php:57
+#: inc/customizer/navigation/footer-settings.php:136
+#: inc/customizer/navigation/primary-menu.php:395
+#: inc/customizer/navigation/transparent-header.php:148
+#: inc/customizer/navigation/transparent-header.php:372
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer/navigation/top-bar.php:293
+msgid "URL 1"
+msgstr "URL 1"
+
+#: inc/customizer/navigation/top-bar.php:413
+msgid "URL 2"
+msgstr "URL 2"
+
+#: inc/customizer/navigation/top-bar.php:533
+msgid "URL 3"
+msgstr "URL 3"
+
+#: inc/customizer/general-settings/colors.php:570
+msgid "Widget Title Color"
+msgstr "Цвет заголовка виджета"
+
+#: inc/customizer/navigation/top-bar.php:635
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/customizer/navigation/primary-menu.php:118
+#: inc/customizer/navigation/primary-menu.php:165
+msgid "Site Title Color"
+msgstr "Цвет названия сайта"
+
+#: functions.php:1592
+msgid "Elementor Page Builder"
+msgstr "Elementor Page Builder"
+
+#: functions.php:1597
+msgid "Essential Addons for Elementor"
+msgstr "Essential Addons for Elementor"
+
+#: functions.php:1602 inc/sections/controls.php:127
+msgid "Cyclone Demo Importer"
+msgstr "Cyclone Demo Importer"
+
+#: functions.php:2204
+msgid "Tyagal, Patan, Lalitpur"
+msgstr "Tyagal, Patan, Lalitpur"
+
+#: inc/customizer/navigation/mobile-menu.php:33
+#: inc/customizer/navigation/transparent-header.php:284
+#: inc/customizer/navigation/transparent-header.php:468
+msgid "Toggle Button Color"
+msgstr "Цвет кнопки переключения"
+
+#: inc/customizer/navigation/mobile-menu.php:63
+msgid "Background Color ( Hover )"
+msgstr "Цвет фона (при наведении)"
+
+#: inc/customizer/navigation/footer-settings.php:33
+#: inc/customizer/navigation/primary-menu.php:505
+#: inc/customizer/navigation/top-bar.php:273
+#: inc/customizer/navigation/top-bar.php:393
+#: inc/customizer/navigation/top-bar.php:513
+#: inc/customizer/navigation/top-bar.php:604
+msgid "Open in a new tab ?"
+msgstr "Открыть в новой вкладке?"
+
+#: inc/customizer/navigation/footer-settings.php:79
+#: inc/customizer/woocommerce/product-catalog.php:77
+msgid "Color Options"
+msgstr "Параметры цвета"
+
+#: inc/customizer/navigation/footer-settings.php:101
+msgid "Social Icon Background Color"
+msgstr "Цвет фона значка соцсетей"
+
+#: inc/customizer/navigation/primary-menu.php:14
+#: inc/customizer/navigation/primary-menu.php:203
+msgid "Navbar Background 1"
+msgstr "Фон панели навигации 1"
+
+#: inc/customizer/navigation/primary-menu.php:32
+#: inc/customizer/navigation/primary-menu.php:221
+msgid "Navbar Background 2"
+msgstr "Фон панели навигации 2"
+
+#: inc/customizer/navigation/primary-menu.php:43
+#: inc/customizer/navigation/primary-menu.php:232
+msgid "Menu Text Color"
+msgstr "Цвет текста меню"
+
+#: inc/customizer/navigation/primary-menu.php:62
+#: inc/customizer/navigation/primary-menu.php:251
+msgid "Menu Separator Color"
+msgstr "Цвет разделителя меню"
+
+#: inc/customizer/navigation/primary-menu.php:303
+msgid "Child Menu Options"
+msgstr "Параметры дочернего меню"
+
+#: inc/customizer/hero/front-page-hero.php:1402
+#: inc/customizer/navigation/primary-menu.php:695
+msgid "Border Width"
+msgstr "Ширина рамки"
+
+#: inc/customizer/hero/front-page-hero.php:1334
+#: inc/customizer/navigation/primary-menu.php:733
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: inc/customizer/navigation/primary-header.php:504
+msgid "Top Border Color"
+msgstr "Цвет верхней рамки"
+
+#: inc/customizer/navigation/top-bar.php:6
+msgid "Disable Top Bar"
+msgstr "Отключить верхнюю панель"
+
+#: inc/customizer/navigation/top-bar.php:50
+msgid "Border Bottom Color"
+msgstr "Цвет нижней рамки"
+
+#: inc/customizer/navigation/top-bar.php:75
+msgid "Social Icons Separator Color"
+msgstr "Цвет разделителя значков соцсетей"
+
+#: inc/customizer/navigation/top-bar.php:125
+msgid "Info Box Color"
+msgstr "Цвет информ. блока"
+
+#: inc/customizer/navigation/top-bar.php:179
+msgid "Enable Top Bar on Mobile"
+msgstr "Включить верхнюю панель на мобильном"
+
+#: inc/customizer/navigation/top-bar.php:208
+msgid "Enable Infobox 1"
+msgstr "Включить информ. блок 1"
+
+#: inc/customizer/navigation/top-bar.php:328
+msgid "Enable Infobox 2"
+msgstr "Включить информ. блок 2"
+
+#: inc/customizer/navigation/top-bar.php:448
+msgid "Enable Infobox 3"
+msgstr "Включить информ. блок 3"
+
+#: inc/customizer/navigation/top-bar.php:591
+msgid "Hover Label"
+msgstr "Этикетка при наведении"
+
+#: inc/customizer/navigation/top-bar.php:621
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/general-settings/homepage-settings.php:6
+msgid "Hide title on homepage ?"
+msgstr "Скрыть заголовок на домашней странице?"
+
+#: inc/customizer/general-settings/homepage-settings.php:7
+msgid "If you select custom homepage or posts page from below options, then you can hide the title."
+msgstr "Если вы выберете пользовательскую домашнюю страницу или страницу записей из следующих вариантов, вы можете скрыть заголовок."
+
+#: inc/customizer/general-settings/homepage-settings.php:35
+msgid "Hide featured image on homepage ?"
+msgstr "Скрыть изображение записи на домашней странице?"
+
+#: inc/customizer/general-settings/homepage-settings.php:36
+msgid "If you select custom homepage or posts page from below options, then you can hide the feaured image."
+msgstr "Если вы выберете пользовательскую домашнюю страницу или страницу записей из приведенных ниже параметров, вы можете скрыть выбранное изображение."
+
+#: inc/customizer.php:112 inc/customizer/general-settings/container.php:6
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/customizer/hero/front-page-hero.php:1452
+msgid "Monitor ( 1400px > )"
+msgstr "Монитор ( 1400px > )"
+
+#: inc/customizer/hero/front-page-hero.php:1479
+msgid "Laptop ( 1025px - 1400px )"
+msgstr "Ноутбук ( 1025px - 1400px )"
+
+#: inc/customizer/hero/front-page-hero.php:1507
+msgid "Tablet ( 481px - 1024px )"
+msgstr "Планшет ( 481px - 1024px )"
+
+#: inc/customizer/hero/front-page-hero.php:1535
+msgid "Mobile ( 320px - 480px )"
+msgstr "Мобильный ( 320px - 480px )"
+
+#: inc/customizer.php:154
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+#: inc/customizer/general-settings/colors.php:172
+msgid "Body Background"
+msgstr "Фон основной части"
+
+#: inc/customizer/general-settings/colors.php:193
+msgid "Blog Listing Page Options"
+msgstr "Параметры страницы со списком блогов"
+
+#: inc/customizer/general-settings/colors.php:237
+msgid "Box Shadow"
+msgstr "Тень блока"
+
+#: inc/customizer/general-settings/colors.php:275
+msgid "Pagination Border Color"
+msgstr "Цвет границы постраничной навигации"
+
+#: inc/customizer/general-settings/colors.php:294
+msgid "Pagination Text Color"
+msgstr "Цвет текста пагинации постраничной навигации"
+
+#: inc/customizer/general-settings/colors.php:333
+msgid "Blog Detail Page Settings"
+msgstr "Настройки страницы сведений о блоге"
+
+#: inc/customizer/general-settings/colors.php:339
+msgid "Content Border Color"
+msgstr "Цвет рамки содержимого"
+
+#: inc/customizer/general-settings/colors.php:358
+msgid "Content Background Color"
+msgstr "Цвет фона содержимого"
+
+#: inc/customizer/general-settings/colors.php:415
+msgid "Comment Input Border Color"
+msgstr "Цвет рамки ввода комментария"
+
+#: inc/customizer/general-settings/colors.php:434
+msgid "Comment Input Background Color"
+msgstr "Цвет фона ввода комментария"
+
+#: inc/customizer/general-settings/colors.php:453
+msgid "Comment Input Text Color"
+msgstr "Цвет текста ввода комментария"
+
+#: inc/customizer/general-settings/colors.php:473
+msgid "Sidebar Widgets Settings"
+msgstr "Настройки виджетов боковой панели"
+
+#: inc/customizer/general-settings/colors.php:592
+msgid "Link Separator Color"
+msgstr "Цвет разделителя ссылок"
+
+#: inc/customizer/general-settings/colors.php:610
+msgid "Dropdown Text Color"
+msgstr "Цвет текста раскрывающегося списка"
+
+#: inc/customizer/hero/front-page-hero.php:659
+msgid "From Category"
+msgstr "Из категории"
+
+#: inc/customizer/hero/front-page-hero.php:660
+msgid "From Pages"
+msgstr "Из страниц"
+
+#: inc/customizer/hero/front-page-hero.php:709
+msgid "Select Slider Pages"
+msgstr "Выбрать страницы слайдера"
+
+#: inc/customizer/hero/front-page-hero.php:727
+#: inc/customizer/navigation/transparent-header.php:27
+#: inc/customizer/woocommerce/header.php:100
+msgid "Page"
+msgstr "Страница"
+
+#: inc/customizer/hero/front-page-hero.php:728
+msgid "Select a page you want to display on the slider"
+msgstr "Выберите страницу, которую вы хотите отобразить на слайдере"
+
+#: inc/customizer/hero/front-page-hero.php:733
+msgid "Read More Link"
+msgstr "Ссылка Читать далее"
+
+#: inc/customizer/hero/front-page-hero.php:734
+msgid "If left blank, it will take the page link."
+msgstr "Если оставить пустым, будет использоваться ссылка на страницу."
+
+#: inc/customizer/hero/front-page-hero.php:1078
+msgid "Circle"
+msgstr "Круг"
+
+#: inc/customizer/hero/front-page-hero.php:1079
+msgid "Square"
+msgstr "Квадрат"
+
+#: inc/customizer/hero/front-page-hero.php:1080
+msgid "Diamond"
+msgstr "Ромб"
+
+#: inc/customizer.php:145
+msgid "Breadcrumb"
+msgstr "Навигационная цепочка"
+
+#: inc/customizer.php:199
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: inc/customizer/breadcrumb.php:155
+msgid "Single Page"
+msgstr "Отдельная страница"
+
+#: inc/customizer/breadcrumb.php:217
+msgid "Single Post"
+msgstr "Отдельная запись"
+
+#: inc/customizer/breadcrumb.php:161
+msgid "Disable on Single Page?"
+msgstr "Отключить на отдельной странице?"
+
+#: inc/customizer/breadcrumb.php:223
+msgid "Disable on Single Post?"
+msgstr "Отключить на отдельной записе?"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:62
+msgid "Site Title Font Options"
+msgstr "Параметры шрифта названия сайта"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:56
+msgid "Header Site Title Font Options"
+msgstr "Параметры шрифта заголовка название сайта"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:84
+msgid "Site Title Font Size ( Tablet )"
+msgstr "Размер шрифта названия сайта (планшет)"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:106
+msgid "Site Title Font Size ( Mobile )"
+msgstr "Размер шрифта названия сайта (мобильный)"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:128
+msgid "Site Title Font Size ( Sticky Desktop )"
+msgstr "Размер шрифта названия сайта (прилеплен, пк)"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:151
+msgid "Header Site Tagline Font Options"
+msgstr "Параметры шрифта слогана заголовка сайта"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:157
+msgid "Tagline Font Options"
+msgstr "Параметры шрифта слогана"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:179
+msgid "Site Tagline Font Size ( Tablet )"
+msgstr "Размер шрифта слогана сайта (планшет)"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:201
+msgid "Site Tagline Font Size ( Mobile )"
+msgstr "Размер шрифта слогана сайта (мобильный)"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:223
+msgid "Site Tagline Font Size ( Sticky Desktop )"
+msgstr "Размер шрифта слогана сайта (прилеплен, пк)"
+
+#: inc/customizer.php:181
+msgid "Progress Bar"
+msgstr "Индикатор выполнения"
+
+#: inc/customizer.php:193
+msgid "Primary Header"
+msgstr "Основной заголовок"
+
+#: inc/customizer/navigation/primary-header.php:134
+#: inc/customizer/navigation/primary-header.php:203
+msgid "Columns"
+msgstr "Столбцы"
+
+#: inc/customizer/navigation/primary-header.php:71
+msgid "Position"
+msgstr "Позиция"
+
+#: inc/customizer/navigation/primary-header.php:209
+msgid "20% | 60% | 20%"
+msgstr "20% | 60% | 20%"
+
+#: inc/customizer/navigation/primary-header.php:143
+msgid "20% | 80%"
+msgstr "20% | 80%"
+
+#: inc/customizer/navigation/primary-header.php:208
+msgid "25% | 50% | 25%"
+msgstr "25% | 50% | 25%"
+
+#: inc/customizer/navigation/primary-header.php:142
+msgid "30% | 70%"
+msgstr "30% | 70%"
+
+#: inc/customizer/navigation/primary-header.php:207
+msgid "33% | 33% | 33%"
+msgstr "33% | 33% | 33%"
+
+#: inc/customizer/navigation/primary-header.php:138
+msgid "40% | 60%"
+msgstr "40% | 60%"
+
+#: inc/customizer/navigation/primary-header.php:139
+msgid "50% | 50%"
+msgstr "50% | 50%"
+
+#: inc/customizer/navigation/primary-header.php:140
+msgid "60% | 40%"
+msgstr "60% | 40%"
+
+#: inc/customizer/navigation/primary-header.php:141
+msgid "70% | 30%"
+msgstr "70% | 30%"
+
+#: inc/customizer/navigation/primary-header.php:144
+msgid "80% | 20%"
+msgstr "80% | 20%"
+
+#: inc/customizer/hero/front-page-hero.php:969
+#: inc/customizer/navigation/primary-header.php:6
+msgid "Layout"
+msgstr "Разметка"
+
+#: inc/customizer/breadcrumb.php:31
+msgid "Search Page"
+msgstr "Страница поиска"
+
+#: functions.php:2013 functions.php:2043 functions.php:2081
+msgid "ADD WIDGET"
+msgstr "ДОБАВИТЬ ВИДЖЕТ"
+
+#: inc/customizer/breadcrumb.php:93
+msgid "Archive Page"
+msgstr "Страница архива"
+
+#: inc/customizer/navigation/primary-header.php:24
+#: inc/customizer/navigation/top-bar.php:155
+msgid "Content Width"
+msgstr "Ширина содержимого"
+
+#: inc/customizer/breadcrumb.php:14
+msgid "Separator"
+msgstr "Разделитель"
+
+#: inc/customizer/navigation/primary-header.php:114
+#: inc/customizer/navigation/primary-header.php:235
+#: inc/customizer/navigation/primary-header.php:357
+msgid "Text / Html"
+msgstr "Текст / HTML"
+
+#: inc/customizer/navigation/primary-header.php:168
+msgid "Text / HTML"
+msgstr "Текст / HTML"
+
+#: inc/customizer/navigation/primary-header.php:115
+#: inc/customizer/navigation/primary-header.php:237
+#: inc/customizer/navigation/primary-header.php:359
+msgid "Widget"
+msgstr "Виджет"
+
+#: inc/customizer/navigation/primary-header.php:23
+#: inc/customizer/navigation/top-bar.php:154
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: functions.php:128
+msgid "Right Header"
+msgstr "Правый заголовок"
+
+#: functions.php:137
+msgid "Left Header"
+msgstr "Левый заголовок"
+
+#: functions.php:1908
+msgid "days read"
+msgstr "дней чтение"
+
+#: functions.php:1912
+msgid "hrs read"
+msgstr "часов чтение"
+
+#: functions.php:1916
+msgid "min read"
+msgstr "минут чтение"
+
+#: functions.php:1920
+msgid "sec read"
+msgstr "секунд чтение"
+
+#: inc/customizer/hero/inner-pages-hero.php:11
+msgid "More options for the breadcrumb can be found here <strong>Appearance > Customize > Breadcrumb</strong>\n"
+msgstr "Дополнительные параметры навигационной цепочки можно найти здесь <strong>Внешний вид > Настройка > Хлебные крошки</strong>\n"
+
+#: inc/customizer/hero/front-page-hero.php:990
+msgid "Highlight Color"
+msgstr "Цвет выделения"
+
+#: inc/customizer/hero/front-page-hero.php:1177
+msgid "Disable read more?"
+msgstr "Отключить читать далее?"
+
+#: inc/customizer/hero/front-page-hero.php:1612
+msgid "Flip Horizontal"
+msgstr "Отразить по горизонтали"
+
+#: inc/customizer/blog-settings.php:575
+msgid "Hide Read Time"
+msgstr "Скрыть время чтения"
+
+#: inc/customizer/navigation/primary-header.php:109
+#: inc/customizer/navigation/primary-header.php:352
+msgid "Last Item on Header"
+msgstr "Последний элемент в заголовке"
+
+#: inc/customizer/navigation/primary-header.php:230
+msgid "First Item on Header"
+msgstr "Первый элемент в заголовке"
+
+#: inc/customizer/navigation/primary-header.php:256
+msgid "Text / HTML ( Left Header )"
+msgstr "Текст/HTML (левый заголовок)"
+
+#: inc/customizer/navigation/primary-header.php:282
+msgid "Social Icons ( Left Header )"
+msgstr "Значки соцсетей (левый заголовок)"
+
+#: inc/customizer/navigation/primary-header.php:291
+#: inc/customizer/navigation/primary-header.php:386
+msgid "Fontawesome Icon"
+msgstr "Значки Font Awesome"
+
+#: inc/customizer/navigation/primary-header.php:377
+msgid "Social Icons ( Right Header )"
+msgstr "Значки соцсетей (правый заголовок)"
+
+#: inc/customizer/navigation/primary-header.php:445
+msgid "Text / HTML ( Right Header )"
+msgstr "Текст/HTML (правый заголовок)"
+
+#: inc/customizer/navigation/primary-header.php:477
+msgid "The border will only display, if there is no slider/banner on the page."
+msgstr "Рамка будет отображаться, только если на странице нет слайдера/баннера."
+
+#: inc/customizer/navigation/primary-header.php:529
+msgid "Bottom Border Color"
+msgstr "Цвет нижней рамки"
+
+#: inc/customizer/navigation/primary-header.php:483
+msgid "Bottom Border Size"
+msgstr "Размер нижней рамки"
+
+#: inc/customizer/breadcrumb.php:37
+msgid "Disable on Search Page?"
+msgstr "Отключить на странице поиска?"
+
+#: inc/customizer/breadcrumb.php:45 inc/customizer/breadcrumb.php:107
+#: inc/customizer/breadcrumb.php:169 inc/customizer/breadcrumb.php:231
+msgid "Upload Custom Image?"
+msgstr "Загрузить пользовательское изображение?"
+
+#: inc/customizer/breadcrumb.php:99
+msgid "Disable on Archive Page?"
+msgstr "Отключить на странице архива?"
+
+#: inc/customizer/breadcrumb.php:7
+msgid "More options for the breadcrumb can be found here <strong>Appearance > Customize > Hero > Inner Pages Hero</strong>\n"
+msgstr "Дополнительные параметры хлебных крошек можно найти здесь <strong>Внешний вид > Настроить > Тема > Тема дня внутренних страниц</strong>\n"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:307
+msgid "Heading 4"
+msgstr "Заголовок 4"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:207
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:107
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:7
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+#: inc/customizer/detail-page-settings.php:66
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/customizer.php:247
+msgid "404 Page Settings"
+msgstr "Настройки страницы 404"
+
+#: inc/customizer/hero/front-page-hero.php:212
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customizer/hero/front-page-hero.php:233
+#: inc/customizer/hero/inner-pages-hero.php:18
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: inc/customizer.php:233
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/customizer/hero/inner-pages-hero.php:40
+msgid "Breadcrumb Color"
+msgstr "Цвет хлебных крошек"
+
+#: inc/customizer/hero/front-page-hero.php:363
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/customizer/hero/front-page-hero.php:384
+msgid "Subtitle Color"
+msgstr "Цвет подзаголовка"
+
+#: inc/customizer.php:241
+msgid "Detail Page Settings"
+msgstr "Настройки страницы детализации"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:14
+msgid "Body & Content"
+msgstr "Основная часть и содержимое"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:20
+#: inc/customizer/general-settings/typography/headings/headings.php:13
+#: inc/customizer/general-settings/typography/headings/headings.php:113
+#: inc/customizer/general-settings/typography/headings/headings.php:213
+#: inc/customizer/general-settings/typography/headings/headings.php:313
+#: inc/customizer/woocommerce/floating-menu.php:12
+msgid "Enable / Disable"
+msgstr "Включить / Отключить"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:14
+msgid "Tick to enable custom H1 font"
+msgstr "Отметьте, чтобы включить пользовательский шрифт H1"
+
+#: inc/customizer/general-settings/typography/base-typography/base-typography.php:21
+msgid "Tick to enable custom font"
+msgstr "Отметьте, чтобы включить пользовательский шрифт"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:50
+#: inc/customizer/general-settings/typography/headings/headings.php:150
+#: inc/customizer/general-settings/typography/headings/headings.php:250
+#: inc/customizer/general-settings/typography/headings/headings.php:350
+msgid "Font Size ( Tablet )"
+msgstr "Размер шрифта (планшет)"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:78
+#: inc/customizer/general-settings/typography/headings/headings.php:178
+#: inc/customizer/general-settings/typography/headings/headings.php:278
+#: inc/customizer/general-settings/typography/headings/headings.php:378
+msgid "Font Size ( Mobile )"
+msgstr "Размер шрифта (мобильный)"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:114
+msgid "Tick to enable custom H2 font"
+msgstr "Отметьте, чтобы включить пользовательский шрифт H2"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:214
+msgid "Tick to enable custom H3 font"
+msgstr "Отметьте, чтобы включить пользовательский шрифт H3"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:314
+msgid "Tick to enable custom H4 font"
+msgstr "Отметьте, чтобы включить пользовательский шрифт H4"
+
+#: inc/customizer.php:175
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/customizer.php:134
+msgid "Navigation"
+msgstr "Навигация"
+
+#: inc/customizer.php:106
+msgid "Typography"
+msgstr "Типографика"
+
+#: inc/customizer/hero/front-page-hero.php:6
+msgid "Background Type"
+msgstr "Тип фона"
+
+#: inc/customizer.php:211
+msgid "Blog Settings"
+msgstr "Настройки блога"
+
+#: inc/customizer.php:124
+msgid "Headings"
+msgstr "Заголовки"
+
+#: inc/customizer.php:118
+msgid "Base Typography"
+msgstr "Базовая типография"
+
+#: inc/customizer/navigation/primary-menu.php:81
+#: inc/customizer/navigation/primary-menu.php:270
+#: inc/customizer/navigation/transparent-header.php:170
+#: inc/customizer/navigation/transparent-header.php:348
+msgid "Menu Background Color ( Hover )"
+msgstr "Цвет фона меню (при наведении)"
+
+#: inc/customizer.php:216
+msgid "Front Page Hero"
+msgstr "Тема дня на главной страницы"
+
+#: inc/customizer.php:139
+msgid "Hero"
+msgstr "Тема дня"
+
+#: inc/customizer.php:221
+msgid "Inner Pages Hero"
+msgstr "Тема дня внутренних страниц"
+
+#: inc/customizer/blog-settings.php:14
+#: inc/customizer/detail-page-settings.php:54
+msgid "Category"
+msgstr "Категория"
+
+#: inc/customizer/detail-page-settings.php:18
+msgid "Post Date"
+msgstr "Дата записи"
+
+#: inc/customizer/blog-settings.php:531
+msgid "Hide Comment"
+msgstr "Скрыть комментарий"
+
+#: inc/customizer/blog-settings.php:553
+msgid "Hide Date"
+msgstr "Скрыть дату"
+
+#: inc/customizer/detail-page-settings.php:30
+msgid "Author Link"
+msgstr "Ссылка на автора"
+
+#: inc/customizer/detail-page-settings.php:42
+msgid "Comment Stats"
+msgstr "Статистика комментариев"
+
+#: inc/customizer/hero/front-page-hero.php:514
+#: inc/customizer/hero/inner-pages-hero.php:62
+msgid "Text Position"
+msgstr "Расположение текста"
+
+#: inc/customizer/hero/front-page-hero.php:578
+#: inc/customizer/hero/inner-pages-hero.php:123
+msgid "Banner Image Options"
+msgstr "Параметры изображения баннера"
+
+#: inc/customizer/hero/front-page-hero.php:1194
+#: template-parts/content-grid-two-column.php:43
+msgid "Read More"
+msgstr "Читать далее"
+
+#: inc/customizer/hero/front-page-hero.php:1029
+msgid "Arrow Hover Color"
+msgstr "Цвет стрелки при наведении"
+
+#: inc/customizer/navigation/transparent-header.php:210
+#: inc/customizer/navigation/transparent-header.php:394
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: inc/customizer/hero/front-page-hero.php:761
+msgid "Content Length"
+msgstr "Объём содержимого"
+
+#: functions.php:2138 inc/customizer/hero/front-page-hero.php:684
+#: inc/customizer/hero/front-page-hero.php:715
+msgid "Upgrade to PRO"
+msgstr "Обновить до PRO"
+
+#: inc/customizer/hero/front-page-hero.php:680
+#: inc/customizer/hero/front-page-hero.php:711
+msgid "In free version, only 2 slides will be displayed. %s"
+msgstr "В бесплатной версии будут отображаться только 2 слайда. %s"
+
+#: inc/customizer/hero/front-page-hero.php:837
+msgid "Slide Speed ( Second )"
+msgstr "Скорость слайда (секунда)"
+
+#: inc/customizer/hero/front-page-hero.php:857
+msgid "Autoplay Delay ( Second )"
+msgstr "Задержка автозапуска (секунда)"
+
+#: inc/customizer/hero/front-page-hero.php:1023
+msgid "Paginations Options"
+msgstr "Параметры постраничной навигации"
+
+#: inc/customizer/hero/front-page-hero.php:1051
+msgid "Dot Active Color"
+msgstr "Активный цвет точки"
+
+#: inc/customizer/hero/front-page-hero.php:1128
+msgid "Opacity Options"
+msgstr "Параметры прозрачности"
+
+#: inc/customizer/hero/front-page-hero.php:1134
+msgid "Gradient Primary Color"
+msgstr "Градиент основного цвета"
+
+#: inc/customizer/hero/front-page-hero.php:1152
+msgid "Gradient Secondary Color"
+msgstr "Градиент дополнительного цвета"
+
+#: inc/customizer/hero/front-page-hero.php:1171
+msgid "Read More Options"
+msgstr "Параметры Читать далее"
+
+#: inc/customizer/hero/front-page-hero.php:910
+msgid "Title Font ( Desktop / Tablet )"
+msgstr "Шрифт заголовка (пк/планшет)"
+
+#: inc/customizer/hero/front-page-hero.php:939
+msgid "Title Font ( Mobile )"
+msgstr "Шрифт заголовка (мобильный)"
+
+#: inc/customizer/general-settings/colors.php:484
+#: inc/customizer/general-settings/site-identity.php:55
+#: inc/customizer/hero/front-page-hero.php:785
+msgid "Disable"
+msgstr "Отключение"
+
+#: inc/customizer/general-settings/colors.php:483
+#: inc/customizer/general-settings/site-identity.php:54
+#: inc/customizer/hero/front-page-hero.php:786
+#: inc/customizer/navigation/progress-bar.php:6
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/customizer/general-settings/site-identity.php:25
+msgid "Logo Height"
+msgstr "Высота логотипа"
+
+#: inc/customizer/general-settings/site-identity.php:49
+msgid "If checked, it will ignore the above height and use default height for the logo on sitcky menu."
+msgstr "Если флажок установлен, он будет игнорировать указанную выше высоту и использовать высоту по умолчанию для логотипа для закрепленного меню."
+
+#: inc/customizer/general-settings/site-identity.php:48
+msgid "Apply default logo height on sticky menu"
+msgstr "Применить высоту логотипа по умолчанию для прикрепленного меню"
+
+#: inc/sections/controls.php:156
+msgid "Install & Activate"
+msgstr "Установить и активировать"
+
+#: inc/sections/controls.php:116
+msgid "Recommended Plugins"
+msgstr "Рекомендуемые плагины"
+
+#: inc/sections/controls.php:152
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate all the recommended plugins."
+msgstr "Если вы хотите в полной мере воспользоваться возможностями этой темы, установите и активируйте все рекомендуемые плагины."
+
+#: inc/customizer/navigation/primary-menu.php:159
+msgid "Sticky Menu Options"
+msgstr "Параметры прилепленного меню"
+
+#: inc/customizer/navigation/primary-menu.php:449
+msgid "Button Section"
+msgstr "Раздел кнопки"
+
+#: inc/customizer/blog-settings.php:424
+#: inc/customizer/hero/front-page-hero.php:1292
+#: inc/customizer/navigation/primary-menu.php:612
+msgid "Border Radius"
+msgstr "Радиус рамки"
+
+#: inc/customizer/hero/front-page-hero.php:1305
+#: inc/customizer/navigation/primary-menu.php:625
+msgid "Top Left Radius"
+msgstr "Верхний левый радиус"
+
+#: inc/customizer/hero/front-page-hero.php:1306
+#: inc/customizer/navigation/primary-menu.php:626
+msgid "Top Right Radius"
+msgstr "Верхний правый радиус"
+
+#: inc/customizer/hero/front-page-hero.php:1308
+#: inc/customizer/navigation/primary-menu.php:627
+msgid "Bottom Left Radius"
+msgstr "Нижний левый радиус"
+
+#: inc/customizer/hero/front-page-hero.php:1307
+#: inc/customizer/navigation/primary-menu.php:628
+msgid "Bottom Right Radius"
+msgstr "Нижний правый радиус"
+
+#: inc/customizer/detail-page-settings.php:22
+#: inc/customizer/detail-page-settings.php:34
+#: inc/customizer/detail-page-settings.php:46
+#: inc/customizer/detail-page-settings.php:58
+#: inc/customizer/detail-page-settings.php:70
+#: inc/customizer/general-settings/homepage-settings.php:12
+#: inc/customizer/general-settings/homepage-settings.php:41
+#: inc/customizer/navigation/progress-bar.php:11
+msgid "Show"
+msgstr "Показать"
+
+#: inc/customizer/detail-page-settings.php:23
+#: inc/customizer/detail-page-settings.php:35
+#: inc/customizer/detail-page-settings.php:47
+#: inc/customizer/detail-page-settings.php:59
+#: inc/customizer/detail-page-settings.php:71
+#: inc/customizer/general-settings/homepage-settings.php:13
+#: inc/customizer/general-settings/homepage-settings.php:42
+#: inc/customizer/navigation/progress-bar.php:12
+msgid "Hide"
+msgstr "Скрыть"
+
+#: header.php:38
+msgid "Skip to content"
+msgstr "Промотать к содержимому"
+
+#: inc/plugins/kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s или %2$s"
+
+#: inc/plugins/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr "Настройка"
+
+#. translators: The title.
+#: inc/plugins/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+msgid "Customizing &#9656; %s"
+msgstr "Настройка &#9656; %s"
+
+#: inc/customizer/navigation/primary-header.php:302
+#: inc/customizer/navigation/primary-header.php:397
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/plugins/kirki/controls/views/image.php:38
+#: inc/plugins/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr "Изображение не выбрано"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr "По ширине"
+
+#: inc/customizer/general-settings/colors.php:534
+#: inc/customizer/navigation/footer-settings.php:120
+#: inc/customizer/navigation/mobile-menu.php:48
+#: inc/customizer/navigation/progress-bar.php:26
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-base.php:134
+#: inc/plugins/kirki/controls/views/image.php:36
+#: inc/plugins/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer/hero/front-page-hero.php:63
+#: inc/customizer/hero/front-page-hero.php:81
+#: inc/customizer/hero/front-page-hero.php:100
+#: inc/customizer/hero/front-page-hero.php:1446
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "Высота"
+
+#: inc/customizer/navigation/primary-header.php:19
+#: inc/customizer/navigation/top-bar.php:150
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/customizer/hero/front-page-hero.php:1094
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "Размер"
+
+#: inc/customizer/blog-settings.php:338
+#: inc/customizer/detail-page-settings.php:88
+#: inc/customizer/hero/front-page-hero.php:520
+#: inc/customizer/hero/front-page-hero.php:555
+#: inc/customizer/hero/front-page-hero.php:883
+#: inc/customizer/hero/front-page-hero.php:1347
+#: inc/customizer/hero/front-page-hero.php:1418
+#: inc/customizer/hero/inner-pages-hero.php:68
+#: inc/customizer/hero/inner-pages-hero.php:102
+#: inc/customizer/navigation/primary-menu.php:711
+#: inc/customizer/navigation/primary-menu.php:746
+#: inc/customizer/woocommerce/product-catalog.php:25
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:157
+#: inc/plugins/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr "Справа"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr "Сброс"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr "Добавить файл"
+
+#. translators: The field ID where the error occurs.
+#: inc/plugins/kirki/core/class-kirki-field.php:498
+#: inc/plugins/kirki/core/class-kirki-field.php:509
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "недопустимый формат вывода в поле %s. Аргумент \"output\" должен быть определен как массив массивов."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/plugins/kirki/core/class-kirki-field.php:375
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "недопустимая запись \"partial_refresh\" в поле %s"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr "Добавить картинку"
+
+#. translators: %s represents the label of the row.
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr "Добавить новую %s"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "Авто"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "Фоновое вложение"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "Повтор фона"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr "Жирный 700"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr "Жирный 700 наклонный"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr "Книжный 300"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr "Книжный 300 наклонный"
+
+#: inc/customizer/blog-settings.php:248 inc/customizer/blog-settings.php:275
+#: inc/customizer/blog-settings.php:304
+#: inc/customizer/hero/front-page-hero.php:553
+#: inc/customizer/hero/front-page-hero.php:1345
+#: inc/customizer/hero/front-page-hero.php:1416
+#: inc/customizer/hero/inner-pages-hero.php:100
+#: inc/customizer/navigation/primary-header.php:50
+#: inc/customizer/navigation/primary-menu.php:709
+#: inc/customizer/navigation/primary-menu.php:744
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: inc/plugins/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr "Низ"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:91
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr "По центру снизу"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:90
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr "По центру"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:89
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr "По центру сверху"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr "Сменить файл"
+
+#: inc/plugins/kirki/controls/views/image.php:35
+#: inc/plugins/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr "Сменить изображение"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr "Сменить изображение"
+
+#: inc/plugins/kirki/controls/views/image.php:40
+#: inc/plugins/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr "Выберите изображение"
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: inc/plugins/kirki/core/class-kirki-field.php:257
+#: inc/plugins/kirki/core/class-kirki-field.php:267
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Конфигурация не определена для поля %1$s - Смотри сведения о правильном добавлении полей в %2$s."
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "Содержит"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "Обложка"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr "CSS по умолчанию"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr "Семейство шрифтов браузера по умолчанию"
+
+#: inc/plugins/kirki/field/class-kirki-field-color.php:52
+msgid "Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]\" instead."
+msgstr "Не используйте \"alpha\" в качестве аргумента в управлении цветом. Вместо этого используйте \"choices[alpha]\"."
+
+#: inc/plugins/kirki/core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr "Больше не показывать"
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+#: inc/plugins/kirki/field/class-kirki-field-radio.php:37
+msgid "Error in field %1$s. The \"mode\" argument has been deprecated since Kirki v0.8. Use the \"radio-%2$s\" type instead."
+msgstr "Ошибка в поле %1$s. Аргумент \"mode\" устарел с Kirki v0.8. Вместо этого используйте тип \"radio-%2$s\"."
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr "Экстражирный 800"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr "Экстражирный 800 наклонный"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "Фиксированный размер"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr "Семья шрифта"
+
+#: inc/customizer/general-settings/typography/headings/headings.php:441
+#: inc/customizer/general-settings/typography/headings/headings.php:459
+#: inc/customizer/general-settings/typography/headings/headings.php:478
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc/customizer/blog-settings.php:190
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: inc/plugins/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Важное уведомление обновления:"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:139
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:181
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:180
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr "Начальная буква"
+
+#: inc/plugins/kirki/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr "Установить плагин"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimension.php:41
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr "Неверное значение"
+
+#: inc/plugins/kirki/core/class-kirki.php:237
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Поля Kirki не следует добавлять на customize_register. Пожалуйста, добавьте их напрямую или при инициализации."
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:85
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr "Слева снизу"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:84
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr "Слева по центру"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:83
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr "Слева сверху"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr "Межсимвольный интервал"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr "Лёгкий 200"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr "Лёгкий 200 наклонный"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr "Лимит: %s строк"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr "Высота линии"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr "Зачёркивание"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr "Нижнее поле"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr "Верхнее поле"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr "Средний 500"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr "Средний 500 наклонный"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:59
+#: inc/plugins/kirki/controls/php/class-kirki-control-base.php:132
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:408
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr "Файл не выбран"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:376
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr "Изображение не выбрано"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "Без повтора"
+
+#: functions.php:650 functions.php:906
+#: inc/customizer/hero/front-page-hero.php:13
+#: inc/customizer/hero/front-page-hero.php:1574
+#: inc/customizer/navigation/primary-header.php:113
+#: inc/customizer/navigation/primary-header.php:234
+#: inc/customizer/navigation/primary-header.php:356
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:176
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr "Нет"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:205
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr "Нормальный 400"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr "Нормальный 400 наклонный"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-switch.php:56
+#: inc/plugins/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr "Выкл"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-switch.php:52
+#: inc/plugins/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr "Вкл"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr "Черта сверху"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "Повторять всё"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "Повтор по горизонтали"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "Повтор по вертикали"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:88
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr "Справа снизу"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:87
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr "Справа по центру"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:86
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr "Справа сверху"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "строка"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr "Выберите страницу"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:63
+#: inc/plugins/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr "Выберите файл"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:83
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr "Выберите семью шрифта"
+
+#: inc/plugins/kirki/controls/views/image.php:34
+#: inc/plugins/kirki/controls/views/image.php:39
+#: inc/plugins/kirki/field/class-kirki-field-image.php:47
+#: inc/plugins/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr "Выберите изображение"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr "Полужирный 600"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr "Полужирный 600 наклонный"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr "Стандартные шрифты"
+
+#: inc/customizer/hero/front-page-hero.php:877
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr "Оформление текста"
+
+#: inc/customizer/blog-settings.php:247 inc/customizer/blog-settings.php:274
+#: inc/customizer/blog-settings.php:303
+#: inc/customizer/hero/front-page-hero.php:552
+#: inc/customizer/hero/front-page-hero.php:1344
+#: inc/customizer/hero/front-page-hero.php:1415
+#: inc/customizer/hero/inner-pages-hero.php:99
+#: inc/customizer/navigation/primary-header.php:49
+#: inc/customizer/navigation/primary-menu.php:708
+#: inc/customizer/navigation/primary-menu.php:743
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: inc/plugins/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr "Верх"
+
+#. translators: %s represents the field ID where the error occurs.
+#: inc/plugins/kirki/core/class-kirki-field.php:248
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Обнаружена опечатка в поле %s - параметр вместо параметров."
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr "Ультражирный 900"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ультражирный 900 наклонный"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:198
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr "Ультралёгкий 100"
+
+#: inc/plugins/kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr "Ультралёгкий 100 наклонный"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr "Подчёркивание"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "Вариант"
+
+#: inc/plugins/kirki/core/class-kirki-init.php:289
+msgid "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+msgstr "Мы обнаружили, что вы используете Kirki_Init::get_variables(). Пожалуйста, вместо этого используйте Kirki_Util::get_variables()."
+
+#: inc/plugins/kirki/core/class-kirki-init.php:365
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Ваша тема для значков использует шрифтAwesome. Чтобы избежать проблем с отсутствующими значками на внешнем интерфейсе, мы рекомендуем вам установить официальный плагин шрифта Awesome."
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr "Резервный шрифт"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:156
+msgid "PHP Version"
+msgstr "Версия PHP"
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:195
+msgid "Show me the data"
+msgstr "Покажите мне данные"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr "Преобразование текста"
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:164
+msgid "Theme Author"
+msgstr "Автор темы"
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:160
+msgid "Theme Name"
+msgstr "Название темы"
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:168
+msgid "Theme URI"
+msgstr "URI темы"
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:62
+#: inc/plugins/kirki/controls/php/class-kirki-control-base.php:133
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:386
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:418
+#: inc/plugins/kirki/controls/php/class-kirki-control-repeater.php:443
+#: inc/plugins/kirki/controls/views/image.php:37
+#: inc/plugins/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "Убрать"
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:146
+msgid "Help us improve Kirki."
+msgstr "Помогите нам улучшить Kirki."
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:147
+msgid "Help us begin a dialogue with theme developers, collaborate and improve both the theme you are using and the Kirki framework by agreeing to send anonymous data. <strong>The data is completely anonymous and we will never collect any identifyable information about you or your website.</strong>"
+msgstr "Помогите нам начать диалог с разработчиками темы, сотрудничайте и улучшайте как используемую вами тему, так и платформу Kirki, согласившись на отправку анонимных данных. <strong>Данные полностью анонимны, и мы никогда не будем собирать какую-либо идентифицирующую информацию о вас или вашем веб-сайте.</strong>"
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:151
+msgid "Data that will be sent"
+msgstr "Данные, которые будут отправлены"
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:172
+msgid "Field Types Used"
+msgstr "Используемые типы полей"
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:193
+msgid "I agree"
+msgstr "Я согласен"
+
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:194
+msgid "No thanks"
+msgstr "Нет, спасибо"
+
+#: functions.php:1506
+msgid "Thank you for installing %1$s"
+msgstr "Спасибо за установку %1$s"
+
+#. translators: %1$s: URL to the server plugin code. %2$s: URL to the stats
+#. page.
+#: inc/plugins/kirki/modules/telemetry/class-kirki-modules-telemetry.php:182
+msgid "We believe in complete transparency. You can see the code used on our server <a href=\"%1$s\" rel=\"nofollow\">here</a>, and the results of the statistics we're gathering on <a href=\"%2$s\" rel=\"nofollow\">this page</a>."
+msgstr "Мы верим в полную прозрачность. Вы можете увидеть код, используемый на нашем сервере <a href=\"%1$s\" rel=\"nofollow\">здесь</a>, и результаты статистики, которую мы собираем на <a href=\"%2$s\" rel=\"nofollow\">этой странице</a>."
+
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr "Интервал между словами"
+
+#: inc/customizer/hero/front-page-hero.php:542
+#: inc/customizer/hero/inner-pages-hero.php:89
+#: inc/customizer/navigation/primary-header.php:41
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "Отступ"
+
+#: inc/customizer/detail-page-settings.php:6
+msgid "Image Position"
+msgstr "Позиция изображения"
+
+#: functions.php:1950 functions.php:1959 functions.php:1991
+#: inc/customizer/navigation/transparent-header.php:37
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/customizer/navigation/footer-settings.php:28
+#: inc/customizer/navigation/primary-header.php:297
+#: inc/customizer/navigation/primary-header.php:392
+#: inc/customizer/navigation/top-bar.php:586
+#: inc/customizer/woocommerce/header.php:111
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: wp-comment-walker.php:116
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: template-parts/content-page-full.php:21 template-parts/content-page.php:43
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: functions.php:1526
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: functions.php:1008
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer/blog-settings.php:336
+#: inc/customizer/detail-page-settings.php:11
+#: inc/customizer/hero/front-page-hero.php:519
+#: inc/customizer/hero/front-page-hero.php:882
+#: inc/customizer/hero/inner-pages-hero.php:67
+#: inc/customizer/navigation/primary-header.php:76
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer/blog-settings.php:337
+#: inc/customizer/detail-page-settings.php:10
+#: inc/customizer/detail-page-settings.php:89
+#: inc/customizer/hero/front-page-hero.php:518
+#: inc/customizer/hero/front-page-hero.php:554
+#: inc/customizer/hero/front-page-hero.php:881
+#: inc/customizer/hero/front-page-hero.php:1346
+#: inc/customizer/hero/front-page-hero.php:1417
+#: inc/customizer/hero/inner-pages-hero.php:66
+#: inc/customizer/hero/inner-pages-hero.php:101
+#: inc/customizer/navigation/primary-header.php:75
+#: inc/customizer/navigation/primary-menu.php:710
+#: inc/customizer/navigation/primary-menu.php:745
+#: inc/customizer/woocommerce/product-catalog.php:24
+#: inc/plugins/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: inc/plugins/kirki/controls/php/class-kirki-control-typography.php:145
+#: inc/plugins/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer/woocommerce/header.php:4
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#. translators: %s is replaced with "string". It will display the author name
+#: functions.php:1385
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: functions.php:1186 functions.php:1397
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: functions.php:587
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: functions.php:588
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: functions.php:1429
+msgid ". All rights reserved. "
+msgstr ".Все права защищены. "
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#: inc/fontawesome-5-icons.php:14
+msgid "<i class=\"%1$s\"></i> %2$s"
+msgstr "<i class=\"%1$s\"></i> %2$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активация"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активация %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активирован"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Всё установлено и активировано."
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установлено."
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/customizer.php:255
+#: inc/plugins/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начало активации плагина"
+msgstr[1] "Начало активации плагинов"
+msgstr[2] "Начало активации плагинов"
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начало установки плагина"
+msgstr[1] "Начало установки плагинов"
+msgstr[2] "Начало установки плагинов"
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начало обновления плагина"
+msgstr[1] "Начало обновления плагинов"
+msgstr[2] "Начало обновления плагинов"
+
+#: inc/customizer/navigation/primary-menu.php:520
+#: inc/customizer/navigation/transparent-header.php:227
+#: inc/customizer/navigation/transparent-header.php:411
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: inc/customizer/navigation/primary-menu.php:490
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Скрыть эту заметку"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: functions.php:48
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть подробности"
+
+#: 404.php:17 functions.php:1201
+msgid "Home"
+msgstr "Домой"
+
+#: inc/customizer/navigation/footer-settings.php:22
+#: inc/customizer/navigation/primary-header.php:286
+#: inc/customizer/navigation/primary-header.php:381
+#: inc/customizer/navigation/top-bar.php:580
+#: inc/customizer/woocommerce/header.php:116
+msgid "Icon"
+msgstr "Значок"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установка"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установите плагины"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установите необходимые плагины"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установите плагин: %s"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную страницу найти не удалось. Возможно будет полезен поиск по сайту."
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никаких действий не предпринималось. Подключаемый модуль %1$s уже активен."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Нет доступных плагинов для установки в настоящее время."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Нет доступных плагинов для обновления в настоящее время."
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбраны плагины для активации. Никаких действий не предпринималось."
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбраны плагины для установки. Никаких действий не предпринималось."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбраны плагины для обновления. Никаких действий не предпринималось."
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован успешно."
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Более новая версия %s нужна для этой темы. Пожалуйста, обновите плагин."
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: functions.php:1182
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для %s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#: functions.php:119 inc/customizer/blog-settings.php:375
+#: inc/customizer/detail-page-settings.php:84
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: inc/customizer/hero/front-page-hero.php:11
+msgid "Slider"
+msgstr "Слайдер"
+
+#: inc/customizer/navigation/footer-settings.php:7
+#: inc/customizer/navigation/primary-header.php:236
+#: inc/customizer/navigation/primary-header.php:358
+msgid "Social Icons"
+msgstr "Значки соцсетей"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Состояние"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Следующий плагин необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+msgstr[1] "Следующие плагины необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+msgstr[2] "Следующие плагины необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин успешно активирован:"
+msgstr[1] "Следующие плагины успешно активированы:"
+msgstr[2] "Следующие плагины успешно активированы:"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий необходимый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие необходимые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие необходимые плагины в настоящее время неактивны: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации запущен. В зависимости от мощности вашего сервера этот процесс может занять некоторое время, пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки начался. В зависимости от мощности вашего сервера этот процесс может занять некоторое время, пожалуйста, будьте терпеливы."
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет внешнего плагина состоит из нескольких файлов, но файлы не находятся в папке."
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Внешний пакет плагина не содержит папку с требуемым ярлыком и переименование не сработало."
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление для: %1$s."
+msgstr[1] "Доступны обновления для: %1$s."
+msgstr[2] "Доступны обновления для: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+msgstr[2] "Эта тема рекомендует следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Для этой темы требуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы требуется следующие плагины: %1$s."
+msgstr[2] "Для этой темы требуется следующие плагины: %1$s."
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестен"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновление"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Обновление доступно <span class=\"count\">(%s)</span>"
+msgstr[1] "Обновления доступны <span class=\"count\">(%s)</span>"
+msgstr[2] "Обновления доступны <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: functions.php:121 functions.php:130 functions.php:139 inc/woocommerce.php:58
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: inc/customizer/hero/front-page-hero.php:10
+msgid "Banner"
+msgstr "Баннер"
+
+#: inc/customizer/navigation/primary-menu.php:471
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: functions.php:1587 inc/sections/controls.php:145
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: functions.php:1422
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+#: inc/customizer/general-settings/colors.php:135
+#: inc/customizer/general-settings/colors.php:516
+#: inc/customizer/navigation/footer-settings.php:169
+msgid "Link Color ( Hover )"
+msgstr "Цвет ссылки (при наведении)"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "Основной"
+
+#: functions.php:1007
+msgid "Search ..."
+msgstr "Поиск ..."
+
+#. translators: %s is replaced with "string". It will display the search title
+#: functions.php:1392
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/customizer/navigation/footer-settings.php:17
+#: inc/customizer/navigation/top-bar.php:575
+msgid "Social Link"
+msgstr "Ссылка на соцсеть"
+
+#: inc/customizer/navigation/footer-settings.php:12
+#: inc/customizer/navigation/top-bar.php:555
+#: inc/customizer/navigation/top-bar.php:571
+msgid "Social Links"
+msgstr "Ссылки соцсетей"
+
+#: template-parts/content-detail.php:95 template-parts/content-detail2.php:67
+msgid "Tags :"
+msgstr "Метки:"
+
+#: inc/customizer/general-settings/colors.php:6
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: inc/sections/controls.php:79
+msgid "Upgrade To PRO"
+msgstr "Обновить до PRO"
+
+#. Template Name of the theme
+msgid "Page - Full Width"
+msgstr "Страница - Во всю ширину"
+
+#. Template Name of the theme
+msgid "Homepage - Full Width"
+msgstr "Домашняя страница - Во всю ширину"
+
+#: functions.php:1423
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:1434
+msgid "Powered %1$s by %2$s"
+msgstr "Платформа %1$s от %2$s"
+
+#: functions.php:1442
+msgid "Designed by"
+msgstr "Спроектировано"
+
+#: functions.php:1521
+msgid "Get Started"
+msgstr "Начать"
+
+#: functions.php:1582 inc/sections/controls.php:136
+msgid "One Click Demo Import"
+msgstr "Импортировать демо в один клик"
+
+#: 404.php:16
+msgid "OOPS! - Could not Find it"
+msgstr "УПС! - Не удалось найти"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: inc/customizer.php:170
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/customizer/navigation/primary-menu.php:566
+#: inc/customizer/navigation/transparent-header.php:244
+#: inc/customizer/navigation/transparent-header.php:428
+msgid "Button Color ( Hover )"
+msgstr "Цвет кнопки (при наведении)"
+
+#: inc/customizer/navigation/primary-menu.php:440
+msgid "Disable Search"
+msgstr "Отключить поиск"
+
+#: inc/customizer/navigation/primary-menu.php:469
+msgid "Button Label"
+msgstr "Этикетка кнопки"
+
+#: inc/customizer/hero/front-page-hero.php:678
+msgid "Select Slider Category"
+msgstr "Выбрать категорию слайдера"
+
+#: inc/customizer/blog-settings.php:381
+msgid "No Sidebar ( Two Columns )"
+msgstr "Без области виджетов (два столбца)"
+
+#: inc/customizer/blog-settings.php:382
+msgid "No Sidebar ( Three Columns )"
+msgstr "Без области виджетов (три столбца)"
+
+#: inc/customizer/blog-settings.php:472
+msgid "Excerpt Length"
+msgstr "Длина отрывка"
+
+#: inc/customizer/blog-settings.php:473
+msgid "Enter number of words to display in excerpt"
+msgstr "Введите кол-во слов для отображения в отрывке"
+
+#: inc/customizer/hero/front-page-hero.php:1192
+msgid "Read More Text"
+msgstr "Текст Читать далее"
+
+#: inc/customizer/blog-settings.php:488
+msgid "Hide Author"
+msgstr "Скрыть автора"
+
+#: inc/customizer/blog-settings.php:510
+msgid "Hide Category"
+msgstr "Скрыть категорию"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:57
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#: wp-comment-walker.php:45
+msgid "Author gravatar"
+msgstr "Gravatar автора"
+
+#: wp-comment-walker.php:92
+msgid "Edit this comment"
+msgstr "Изменить этот комментарий"
+
+#. Author of the theme
+#: functions.php:1445
+#, gp-priority: low
+msgid "Bizberg Themes"
+msgstr "Bizberg Themes"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://bizbergthemes.com/"
+msgstr "https://bizbergthemes.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://bizbergthemes.com/downloads/bizberg-lite/"
+msgstr "https://bizbergthemes.com/downloads/bizberg-lite/"

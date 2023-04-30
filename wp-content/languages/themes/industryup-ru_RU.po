@@ -1,0 +1,621 @@
+# Translation of Themes - Industryup in Russian
+# This file is distributed under the same license as the Themes - Industryup package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-04 14:46:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Industryup\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Industryup WordPress theme ideal for a business or perfect solutions for all types of factory, Industry, Industrial, Construction, Engineering, Machinery Business, Commodity Business, Power, Rail Business, Airplane, Ship Business, Oil & Gas Business, Petroleum websites, Agricluture. The theme is responsive, WPML, Retina ready, SEO friendly"
+msgstr "Тема WordPress Industryup идеально подходит для бизнеса или идеальных решений для всех типов заводов, промышленности, промышленности, строительства, машиностроения, машиностроения, товарного бизнеса, энергетики, железнодорожного бизнеса, самолетов, судов, нефти и т. д. Газовый бизнес, Нефтяные сайты, Сельское хозяйство. Тема адаптивная, WPML, готова к Retina, оптимизирована для SEO"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Industryup"
+msgstr "Industryup"
+
+#: inc/ansar/customize/industryup_customize_header.php:124
+msgid "Static"
+msgstr "Статический"
+
+#: inc/ansar/customize/industryup_customize_header.php:123
+msgid "Sticky"
+msgstr "Прикрепить"
+
+#: inc/ansar/customize/industryup_customize_header.php:120
+msgid "Menu Style"
+msgstr "Стиль меню"
+
+#: inc/ansar/customize/industryup_customize_header.php:108
+msgid "Menus"
+msgstr "Меню"
+
+#: inc/ansar/customize/industryup_customize_general.php:97
+msgid "Scroller"
+msgstr "Прокрутка"
+
+#. Template Name of the theme
+msgid "About Us"
+msgstr "О нас"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Страница на всю ширину"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "Домашняя страница"
+
+#: search.php:26
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: search.php:24
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: %s: search term
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/ansar/industryup-custom-navwalker.php:207
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: inc/ansar/industryup-admin-plugin-install.php:43
+msgid "Get Elementor Demos"
+msgstr "Elementor Demos"
+
+#: inc/ansar/industryup-admin-plugin-install.php:42
+msgid "Clicking on Get Elementor Demos Button and Get Elementor Premade Template"
+msgstr "Нажатие на кнопку Get Elementor Demos Button и Get Elementor Premade Template"
+
+#: inc/ansar/industryup-admin-plugin-install.php:33
+msgid "Get started with Industryup"
+msgstr "Начать с Industryup"
+
+#: inc/ansar/industryup-admin-plugin-install.php:31
+msgid "Clicking on get started will install & activate and get Defult demo of Industryup."
+msgstr "Нажатие кнопки «Начать» установит и активирует демо содержимое Industryup по умолчанию."
+
+#: inc/ansar/industryup-admin-plugin-install.php:26
+msgid "Welcome! Thanks for installing %1$s!"
+msgstr "Добро пожаловать! Спасибо за выбор %1$s!"
+
+#: inc/ansar/enqueue.php:159
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/ansar/enqueue.php:139 inc/ansar/enqueue.php:143
+#: inc/ansar/enqueue.php:147 inc/ansar/enqueue.php:153
+#: inc/ansar/enqueue.php:165 inc/ansar/enqueue.php:171
+#: inc/ansar/enqueue.php:187 inc/ansar/enqueue.php:195
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:633
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:666
+msgid "Add Icon"
+msgstr "Добавить иконку"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:628
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:658
+msgid "Remove Icon"
+msgstr "Удалить иконку"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:611
+msgid "Social icons"
+msgstr "Иконки соцсетей"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:603
+msgid "None"
+msgstr "Пусто"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:598
+msgid "Image type"
+msgstr "Тип изображения"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:588
+msgid "Video"
+msgstr "Видео"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:584
+msgid "Status"
+msgstr "Состояние"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Quote"
+msgstr "Цитата"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:576
+msgid "Aside"
+msgstr "Заметка"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:572
+msgid "Standard"
+msgstr "Стандартный"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:568
+msgid "Slide Format"
+msgstr "Формат слайда"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:559
+msgid "Upload Image"
+msgstr "Загрузить картинку"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:556
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:602
+msgid "Image"
+msgstr "﻿Изображение"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:539
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:538
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Примечание: Некоторые иконки могут здесь не отображаться. Полный список иконок доступен тут: %1$s."
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:533
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:601
+msgid "Icon"
+msgstr "Значок"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Open link in new tab:"
+msgstr "Открыть ссылку в новой вкладке:"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:366
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:485
+msgid "Delete field"
+msgstr "Удалить поле"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:350
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:474
+msgid "Designation"
+msgstr "Обозначение"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:342
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:465
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:332
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:396
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:310
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:454
+msgid "Video Url"
+msgstr "URL видео"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:291
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:436
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:625
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:647
+msgid "Link"
+msgstr "Ссылку"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:271
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:418
+msgid "Description"
+msgstr "Описание"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:264
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:411
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:257
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:404
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "Настройки повторителя"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "Добавить новое поле"
+
+#: inc/ansar/customizer-notice/industryup-customizer-notify.php:112
+msgid "Activating"
+msgstr "Активация"
+
+#: inc/ansar/customize/industryup_plugin_recommend.php:15
+msgid "Install and Activate"
+msgstr "Установить и активировать"
+
+#: inc/ansar/customize/industryup_plugin_recommend.php:14
+msgid "Recommended Plugin"
+msgstr "Рекомендуемый плагин"
+
+#: inc/ansar/customize/industryup_plugin_recommend.php:13
+msgid "Recommended Actions"
+msgstr "Рекомендуемые действия"
+
+#: inc/ansar/customize/industryup_customize_sections.php:22
+msgid "Homepage section settings"
+msgstr "Настройки разделов главной страницы"
+
+#: inc/ansar/customize/industryup_customize_header.php:98
+msgid "Open link in new tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: inc/ansar/customize/industryup_customize_header.php:79
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: inc/ansar/customize/industryup_customize_header.php:61
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:280
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:426
+msgid "Button Text"
+msgstr "Кнопка Текст"
+
+#: inc/ansar/customize/industryup_customize_header.php:43
+msgid "Hide/Show"
+msgstr "Скрыть/Показать"
+
+#: inc/ansar/customize/industryup_customize_header.php:25
+msgid "Menu Button"
+msgstr "кнопка меню"
+
+#: inc/ansar/customize/industryup_customize_header.php:15
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: inc/ansar/customize/industryup_customize_header.php:8
+msgid "Header Settings"
+msgstr "Настройки шапки"
+
+#: inc/ansar/customize/industryup_customize_general.php:85
+msgid "Site Title Size"
+msgstr "Размер названия сайта"
+
+#: inc/ansar/customize/industryup_customize_general.php:70
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+#: inc/ansar/customize/industryup_customize_general.php:69
+msgid "Scroll"
+msgstr "Прокручивать"
+
+#: inc/ansar/customize/industryup_customize_general.php:68
+msgid "Inherit"
+msgstr "Унаследовать"
+
+#: inc/ansar/customize/industryup_customize_general.php:63
+msgid "Background Attachment"
+msgstr "Привязка фона"
+
+#: inc/ansar/customize/industryup_customize_general.php:26
+msgid "Breadcrumb"
+msgstr "Хлебные крошки"
+
+#: inc/ansar/customize/industryup_customize_general.php:17
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/ansar/customize/industryup_customize_general.php:9
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:209
+msgid "Footer social icon"
+msgstr "Значки социальных сетей в подвале"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:203
+msgid "Select Column Layout"
+msgstr "Выберите макет колонок"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:187
+msgid "Widget column layout"
+msgstr "столбцов виджетов подвала"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:180
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:166
+msgid "Background"
+msgstr "Фон"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:143
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:110
+msgid "Linkedin URL"
+msgstr "URL-адрес на LinkedIn"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:78
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:61
+#: inc/ansar/customize/industryup_customize_copyright.php:94
+#: inc/ansar/customize/industryup_customize_copyright.php:126
+#: inc/ansar/customize/industryup_customize_copyright.php:159
+msgid "Open link in a new tab"
+msgstr "Открывать в новой вкладке"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:45
+msgid "Facebook URL"
+msgstr "URL-адрес на Facebook"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:28
+#: inc/ansar/customize/industryup_customize_general.php:44
+#: inc/ansar/customize/industryup_customize_general.php:115
+msgid "Hide / Show"
+msgstr "Скрыть/Показать"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:10
+msgid "Social Icons"
+msgstr "Социальные иконки"
+
+#: inc/ansar/customize/industryup_customize_copyright.php:6
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/ansar/customize/industryup_customize_archive.php:102
+#: inc/ansar/customize/industryup_customize_archive.php:108
+#: inc/ansar/enqueue.php:169
+msgid "Shop"
+msgstr "Магазин"
+
+#: inc/ansar/customize/industryup_customize_archive.php:79
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/ansar/customize/industryup_customize_archive.php:73
+#: inc/ansar/enqueue.php:183
+msgid "Search results for"
+msgstr "Результаты поиска для"
+
+#: inc/ansar/customize/industryup_customize_archive.php:58
+#: inc/ansar/customize/industryup_customize_archive.php:64
+#: inc/ansar/enqueue.php:163
+msgid "Tag"
+msgstr "метка"
+
+#: inc/ansar/customize/industryup_customize_archive.php:50
+msgid "Author"
+msgstr "По автору"
+
+#: inc/ansar/customize/industryup_customize_archive.php:44
+#: inc/ansar/enqueue.php:157
+msgid "All posts by"
+msgstr "Все записи автора"
+
+#: inc/ansar/customize/industryup_customize_archive.php:30
+#: inc/ansar/customize/industryup_customize_archive.php:36
+#: inc/ansar/enqueue.php:151
+msgid "Category"
+msgstr "Рубрики"
+
+#: inc/ansar/customize/industryup_customize_archive.php:16
+#: inc/ansar/customize/industryup_customize_archive.php:22
+#: inc/ansar/enqueue.php:133
+msgid "Archive"
+msgstr "Архивировать"
+
+#: inc/ansar/customize/industryup_customize_archive.php:8
+msgid "Archive page title"
+msgstr "Заголовок страницы архива"
+
+#: inc/ansar/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Перейти на Pro"
+
+#: inc/ansar/customize-pro/class-customize.php:64
+msgid "Industryup Pro Available!"
+msgstr "Доступна версия Industryup Pro!"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:46
+msgid "and Import or Install Elementor Template according to your need."
+msgstr "и импортируйте или установите шаблон Elementor по необходимости."
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:45
+msgid "Ansar Demo Importer"
+msgstr "Ansar Demo Importer"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:44
+msgid "To use the Readymade Elementor Template Install and activate Ansar Demo Import plugin then go to appreance menu, click"
+msgstr "Чтобы использовать установку шаблонов Readymade Elementor, установите и активируйте плагин Ansar Demo Import, затем перейдите в меню внешний вид, нажмите"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:39
+msgid "To use the Elementor layouts and pages, install the Elementor plugin."
+msgstr "Чтобы использовать макеты и страницы Elementor, добавьте плагин Elementor."
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:15
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:15
+msgid "Industryup Support"
+msgstr "Поддержка Industryup"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:14
+msgid "Industryup Documentation"
+msgstr "Документация Industryup"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:11
+msgid "Demo Content"
+msgstr "Образец содержимого"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:10
+msgid "Elementor Demos"
+msgstr "Elementor Demos"
+
+#: inc/ansar/admin/getting-started.php:104
+msgid "Elementor Demo"
+msgstr "Демо для Elementor"
+
+#: inc/ansar/admin/getting-started.php:99
+msgid "Getting Started"
+msgstr "Приступаем к работе"
+
+#. translators: %1$s %2$s: welcome message
+#: inc/ansar/admin/getting-started.php:89
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Добро пожаловать в %1$s - Версия %2$s"
+
+#: inc/ansar/admin/getting-started.php:37
+msgid "Activating "
+msgstr "Активация "
+
+#. translators: %1$s: welcome page
+#: inc/ansar/admin/getting-started.php:21
+msgid "Welcome to %1$s"
+msgstr "Добро пожаловать в %1$s"
+
+#. translators: %1$s %2$s: about
+#: inc/ansar/admin/getting-started.php:19
+msgid "About %1$s %2$s"
+msgstr "Про %1$s %2$s"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:112
+#: inc/ansar/customize/industryup_plugin_recommend.php:17
+msgid "Deactivate"
+msgstr "Деактивировано"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:97
+#: inc/ansar/customize/industryup_plugin_recommend.php:16
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:93
+msgid "Install and activate"
+msgstr "Установить и активировать"
+
+#: header.php:75
+msgid "Toggle navigation"
+msgstr "Показать/Скрыть навигацию"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:201
+msgid "Footer Widget Area"
+msgstr "Область виджетов в подвале"
+
+#: functions.php:191
+msgid "Sidebar Widget Area"
+msgstr "Область виджетов боковой панели"
+
+#: functions.php:83
+msgid "Primary menu"
+msgstr "Основное меню"
+
+#. translators: placeholder replaced with string
+#: footer.php:45
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#. translators: placeholder replaced with string
+#: footer.php:45
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s, автор %2$s"
+
+#. translators: placeholder replaced with string
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: footer.php:36
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: content.php:48
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content.php:47
+msgid "Read More"
+msgstr "Читать далее"
+
+#: content.php:39
+msgid "Comments"
+msgstr "Комментарии"
+
+#: content.php:34
+msgid "by"
+msgstr "автор"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:60 comments.php:81
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:59 comments.php:80
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:56 comments.php:77
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к «%2$s»"
+msgstr[1] "%1$s комментарий к «%2$s»"
+msgstr[2] "%1$s комментарий к «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:33
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:30
+msgid "Go Back"
+msgstr "Вернуться назад"
+
+#: 404.php:29
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "К сожалению, запрашиваемая страница не существует."
+
+#: 404.php:28
+msgid "Oops! Page not found"
+msgstr "Упс, страница не найдена"
+
+#: 404.php:27
+msgid "4"
+msgstr "4"
+
+#: 404.php:15 inc/ansar/customize/industryup_customize_archive.php:87
+#: inc/ansar/customize/industryup_customize_archive.php:93
+#: inc/ansar/enqueue.php:193
+msgid "404"
+msgstr "404"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themeansar.com/free-themes/industryup/"
+msgstr "https://themeansar.com/free-themes/industryup/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "themeansar"
+msgstr "themeansar"
